@@ -1,1 +1,1 @@
-Just an idea of a mascot for [Support From Hel](https://supportfromhel.fi/) group, created using assets from [SVGRepo](https://www.svgrepo.com/)
+This started as an idea for a mascot for [Support From Hel](https://supportfromhel.fi/) group, which was created using assets from [SVGRepo](https://www.svgrepo.com/), but now it also has some resourses for the idea of a game using that mascot
